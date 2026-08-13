@@ -27,3 +27,11 @@ SUMMARY::      Max Heap Sort is an efficient comparison-based sorting algorithm 
 CONCLUSION::   Max Heap Sort provides reliable and consistent performance with O(n log n) time complexity in all cases. 
                It is memory-efficient and suitable for large datasets, though it is generally less efficient than 
                Quick Sort in practice due to higher constant factors.           
+
+PRACTICAL 4
+
+SUMMARY::     Both iterative and recursive methods calculate factorial in O(n) time. 
+              Iterative uses a loop, while recursive uses function calls
+
+CONCLUSION:: The iterative method uses less memory (O(1)), while the recursive method uses O(n) memory. 
+             Therefore, iterative is generally more efficient.
