@@ -35,3 +35,12 @@ SUMMARY::     Both iterative and recursive methods calculate factorial in O(n) t
 
 CONCLUSION:: The iterative method uses less memory (O(1)), while the recursive method uses O(n) memory. 
              Therefore, iterative is generally more efficient.
+
+
+PRACTICAL 7
+
+ SUMMARY::   This program uses Dynamic Programming to find the minimum number of coins needed to make a given amount.
+             It stores the minimum coin count for every amount in a DP table.
+             
+ CONCLUSION:: The algorithm efficiently calculates the minimum coins required. 
+              Its time complexity is O(amount × number of coins) and space complexity is O(amount).
