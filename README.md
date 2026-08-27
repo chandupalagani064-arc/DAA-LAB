@@ -44,3 +44,12 @@ PRACTICAL 7
              
  CONCLUSION:: The algorithm efficiently calculates the minimum coins required. 
               Its time complexity is O(amount × number of coins) and space complexity is O(amount).
+
+
+  
+PRACTICAL 5 
+
+ SUMMARY :: The 0/1 Knapsack problem uses Dynamic Programming to select items with maximum value without exceeding the given capacity.
+
+
+ CONCLUSION :: The algorithm gives the optimal solution with O(n × W) time complexity and O(n × W) space complexity.
