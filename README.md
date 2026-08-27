@@ -53,3 +53,12 @@ PRACTICAL 5
 
 
  CONCLUSION :: The algorithm gives the optimal solution with O(n × W) time complexity and O(n × W) space complexity.
+
+
+ PRACTICAL 6 
+
+  SUMMARY:: Matrix Chain Multiplication using Dynamic Programming finds the optimal order of multiplying matrices with the minimum . 
+             number of scalar multiplications .It stores solutions to smaller subproblems and uses them to solve larger ones efficiently
+
+ CONCLUSION:: Dynamic Programming makes matrix chain multiplication more efficient by avoiding repeated calculations. The algorithm has O(n³)
+               time complexity and O(n²) space complexity.
