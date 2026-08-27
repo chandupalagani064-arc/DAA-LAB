@@ -2,7 +2,7 @@ PRACTICAL 1
 
 SUMMARY::     Sorting algorithms are essential techniques used to arrange data in ascending or 
                descending order, making searching and data processing more efficient. Each sorting 
-               algorithm has its own strengths and weaknesses depending on the size and nature of the dataset.
+               algorithm has its own strengths and weaknesses depending on the size and nature of the dataset. 
 
 CONCLUSION::  Each sorting algorithm has its own advantages. Bubble, Selection, and Insertion Sort are best for 
                small datasets and learning purposes, while Merge Sort and Quick Sort are better for large datasets 
@@ -61,4 +61,4 @@ PRACTICAL 5
              number of scalar multiplications .It stores solutions to smaller subproblems and uses them to solve larger ones efficiently
 
  CONCLUSION:: Dynamic Programming makes matrix chain multiplication more efficient by avoiding repeated calculations. The algorithm has O(n³)
-               time complexity and O(n²) space complexity.
+               time complexity and O(n²) space complexity. 
