@@ -57,8 +57,17 @@ PRACTICAL 5
 
  PRACTICAL 6 
 
-  SUMMARY:: Matrix Chain Multiplication using Dynamic Programming finds the optimal order of multiplying matrices with the minimum . 
-             number of scalar multiplications .It stores solutions to smaller subproblems and uses them to solve larger ones efficiently
+  SUMMARY:: Matrix Chain Multiplication using Dynamic Programming finds the optimal order of multiplying matrices with the minimum 
+             number of scalar multiplications .It stores solutions to smaller subproblems and uses them to solve larger ones                    efficiently.
 
- CONCLUSION:: Dynamic Programming makes matrix chain multiplication more efficient by avoiding repeated calculations. The algorithm has O(n³)
-               time complexity and O(n²) space complexity. 
+ CONCLUSION:: Dynamic Programming makes matrix chain multiplication more efficient by avoiding repeated calculations. The                         algorithm has O(n³) time complexity and O(n²) space complexity. 
+
+ PRACTICAL 8
+
+  Summary :: A graph is a non-linear data structure made of vertices and edges. In Python, it can be implemented using an                       adjacency list. BFS and DFS are used to traverse the graph.
+
+ Conclusion:: Graph implementation in Python is simple and useful for representing relationships and solving real-world problems                 such as networks and paths.
+
+
+
+
