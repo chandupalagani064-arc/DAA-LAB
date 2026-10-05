@@ -49,8 +49,8 @@ PRACTICAL 7
   
 PRACTICAL 5 
 
- SUMMARY :: The 0/1 Knapsack problem uses Dynamic Programming to select items with maximum value without exceeding the given capacity.
-
+ SUMMARY :: The 0/1 Knapsack problem uses Dynamic Programming to select items with maximum value without exceeding the given 
+            capacity.
 
  CONCLUSION :: The algorithm gives the optimal solution with O(n × W) time complexity and O(n × W) space complexity.
 
@@ -73,5 +73,12 @@ PRACTICAL 9
   Summary ::  Prim’s algorithm is a greedy method used to find the Minimum Spanning Tree (MST) of a weighted, connected graph by 
               repeatedly selecting the minimum-weight edge.
 
- Conclusion  ::Prim’s algorithm connects all vertices with minimum total cost and is efficient for finding MSTs in graphs.
+ Conclusion :: Prim’s algorithm connects all vertices with minimum total cost and is efficient for finding MSTs in graphs.
+
  
+PRACTICAL 10
+
+  Summary  ::    Kruskal’s algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) by selecting the smallest  
+                 edges without forming a cycle
+  Conclusion ::   Kruskal’s algorithm connects all vertices with minimum total cost and is useful for finding efficient network 
+                  connections.
