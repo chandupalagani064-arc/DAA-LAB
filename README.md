@@ -68,6 +68,10 @@ PRACTICAL 5
 
  Conclusion:: Graph implementation in Python is simple and useful for representing relationships and solving real-world problems                 such as networks and paths.
 
+PRACTICAL 9 
 
+  Summary ::  Prim’s algorithm is a greedy method used to find the Minimum Spanning Tree (MST) of a weighted, connected graph by 
+              repeatedly selecting the minimum-weight edge.
 
-
+ Conclusion  ::Prim’s algorithm connects all vertices with minimum total cost and is efficient for finding MSTs in graphs.
+ 
